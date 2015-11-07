@@ -1,4 +1,4 @@
-## Unicode
+## Unicode 早期历史 
 ### unicode的命名，源于三个主要目标
 1. universal 通用性（能够编码世界上的所有语言）
 2. uniform 一致性（为了提高访问效率，采用固定宽度编码）
@@ -19,3 +19,5 @@
     统计了日常使用的现代字符，得出的结论是16 bit完全能够包含所有的字符。
     
 更进一步，论证了不论如何编码，混合字节字符集访问起来，相比于unicode更加低效。（这里是指相比于unicode的fix-length 16 bit而言）
+
+(http://programmers.stackexchange.com/questions/120126/what-is-the-history-of-why-bytes-are-eight-bits)[http://programmers.stackexchange.com/questions/120126/what-is-the-history-of-why-bytes-are-eight-bits]
