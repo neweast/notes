@@ -1,2 +1,3 @@
 1. [string pool 在 java6、7、8中的区别](http://silencegg.iteye.com/blog/2069267 "http://silencegg.iteye.com/blog/2069267")
-2. [java7中string.intern的change](http://www.oracle.com/technetwork/java/javase/jdk7-relnotes-418459.html#jdk7changes "http://www.oracle.com/technetwork/java/javase/jdk7-relnotes-418459.html#jdk7changes")
+2. [string.intern in java6-7-8 上面一篇的英文原版](http://java-performance.info/string-intern-in-java-6-7-8/)
+3. [java7中string.intern的change](http://www.oracle.com/technetwork/java/javase/jdk7-relnotes-418459.html#jdk7changes "http://www.oracle.com/technetwork/java/javase/jdk7-relnotes-418459.html#jdk7changes")
