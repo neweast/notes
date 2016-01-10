@@ -1,0 +1,2 @@
+1. [string pool 在 java6、7、8中的区别](http://silencegg.iteye.com/blog/2069267 "http://silencegg.iteye.com/blog/2069267")
+2. [java7中string.intern的change](http://www.oracle.com/technetwork/java/javase/jdk7-relnotes-418459.html#jdk7changes "http://www.oracle.com/technetwork/java/javase/jdk7-relnotes-418459.html#jdk7changes")
